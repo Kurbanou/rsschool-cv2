@@ -59,3 +59,10 @@ function solution(str){
 
 
 ********************
+
+## Languages
+* Russian - native speaker
+* English - B1 (Pre-Intermediate)
+
+
+********************
