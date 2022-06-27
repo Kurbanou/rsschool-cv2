@@ -30,10 +30,9 @@ I work as an HTML / CSS editor and web designer. I have studied HTML / CSS / JS 
 ********************
 
 ## Projects
-[CV#1. Markdown & Git](https://github.com/Kurbanou/rsschool-cv.git "CV#1. Markdown & Git")
-[CV#1. Portfolio](https://github.com/Kurbanou/rsschool-cv.git "CV#1. Markdown & Git")
-[CV#1. Random Jokes](https://github.com/Kurbanou/rsschool-cv.git "CV#1. Markdown & Git")
-[CV#1. Tic-tac-toe](https://github.com/Kurbanou/rsschool-cv.git "CV#1. Markdown & Git")
+
+[CV#1. Portfolio](https://kurbanou.github.io/rsschool/portfolio/ "Portfolio")
+[CV#1. Random Jokes](https://kurbanou.github.io/rsschool/random-jokes/ "Random Jokes")
 
 ********************
 
@@ -57,7 +56,6 @@ function solution(str){
 * University: Belarusian National Technical University
 * Courses:
     + HTML Academy
-    + The Rolling Scopes «JavaScript/Front-end»
 
 
 ********************
